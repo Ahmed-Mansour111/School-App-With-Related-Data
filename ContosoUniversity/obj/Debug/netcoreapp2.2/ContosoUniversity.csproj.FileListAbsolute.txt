@@ -1,0 +1,199 @@
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.deps.json
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.json
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.dev.json
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.dll
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.pdb
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.dll
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CoreCompileInputs.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.input.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.output.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorCoreGenerate.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Create.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Delete.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Create.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Delete.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Details.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Edit.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Index.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\About.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.dll
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.pdb
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CopyComplete
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csprojAssemblyReference.cache
+E:\MCSD AHMED MANSOUR\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\UpdateCourseCredits.g.cshtml.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.deps.json
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.json
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.dev.json
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.dll
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.pdb
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.dll
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csprojAssemblyReference.cache
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.input.cache
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.output.cache
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorCoreGenerate.cache
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Create.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\UpdateCourseCredits.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Create.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Details.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Index.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\About.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cache
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cs
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.dll
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.pdb
+E:\Courses\cls\mvc\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CopyComplete
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.deps.json
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.json
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.runtimeconfig.dev.json
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.dll
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.pdb
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.dll
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csprojAssemblyReference.cache
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.input.cache
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.output.cache
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorCoreGenerate.cache
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Create.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Departments\UpdateCourseCredits.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Create.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Details.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Index.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\About.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cache
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorTargetAssemblyInfo.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.Views.pdb
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.dll
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.pdb
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CopyComplete
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Courses\cls\mvc\ContosoBackUp\Contoso\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
